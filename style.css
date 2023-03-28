@@ -1,0 +1,68 @@
+table{
+    border: 2px solid black;
+    margin: 80px auto ;
+    width: 700px;
+    height: 450px;
+    background-color: rgb(26, 26, 26);
+    border-radius: 25px;
+}
+td{
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 25px;
+}
+th{
+    border: 2px solid rgb(143, 143, 143);
+    background-color: rgb(209, 209, 209);
+    border-radius: 50px;
+    width: 10px;
+    height: 40px;
+}
+.Wednesday14{
+    background-color: brown;
+}
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+body{
+    background-color: rgb(59, 59, 59);
+}
+.tdtime{
+    border: 2px solid rgb(143, 143, 143);
+    color: rgb(209, 209, 209);
+    width: 30px;
+    height: 10px;
+}
+.none{
+    background-color: rgb(59, 59, 59);
+}   
+.yellow{
+    background-color: rgb(243, 185, 39);
+}
+.blue{
+    background-color: rgb(135, 212, 238);
+
+}
+.red{
+    background-color: rgb(219, 4, 4);
+}
+.green{
+    background-color: rgb(18, 165, 25);
+}
+.purple{
+    background-color: rgb(114, 36, 187);
+}
+.orange{
+    background-color: orangered;
+}
+a{
+    color: cornsilk;
+    text-align: right;
+}
+.events{
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 25px;
+
+}
